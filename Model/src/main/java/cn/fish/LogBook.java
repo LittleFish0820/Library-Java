@@ -1,6 +1,6 @@
 package cn.fish;
 
-public class logBook {
+public class LogBook {
     private String actDate = "";
     private String bookID = "";
     private String bookName = "";
@@ -8,7 +8,7 @@ public class logBook {
     private String stuName = "";
     private String actMode = "";
 
-    public logBook() {}
+    public LogBook() {}
 
     public String getActDate() {
         return actDate;
